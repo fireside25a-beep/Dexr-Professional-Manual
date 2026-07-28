@@ -32,19 +32,6 @@
 
 <div align="center">
 
-## System Architecture and Verification Pipeline
-
-The complete DEXR architecture: deterministic routing, recursive execution, verification gates, quine fixed-point verification, promotion, rollback, native builds and bounded repair.
-
-<a href="https://github.com/user-attachments/assets/fb36241c-e922-4e23-b86e-9efedeaeff99">
-  <img
-    src="https://github.com/user-attachments/assets/fb36241c-e922-4e23-b86e-9efedeaeff99"
-    alt="DEXR system architecture, request lifecycle, quine verification, promotion and rollback, state layout, verification gates, native build matrix and repair decision tree"
-    width="100%"
-  />
-</a>
-
-<sub>Tap the architecture image to open the full-resolution version.</sub>
 
 </div>
 
